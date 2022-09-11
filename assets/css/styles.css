@@ -1,0 +1,63 @@
+.jumbotron{
+    margin-bottom: 35px;
+    padding: 30px;
+}
+
+#titulo{
+    color: rgb(169, 218, 235);
+    text-align: right;
+    background-color: rgb(237, 237, 237);
+}
+.card-header{
+    background-color: rgb(169, 218, 235);
+}
+
+.inicio{
+    text-align: center;
+}
+
+#mes-prueba{
+    padding-top: 20px;
+}
+
+.row{
+    justify-content: center;
+}
+.titulo-footer {
+    color: grey;
+}
+
+.form-control{
+    width: 300px;
+}
+
+.btn {
+    margin-top: 10px;
+    background-color: rgb(169, 218, 235);
+    border: none;
+}
+
+#seccion-clinica{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    padding: 30px;
+}
+
+.clindigital {
+    color: rgb(169, 218, 235);
+}
+
+.clinica-texto{
+    width: 300px;
+    margin-left: 50px;
+}
+
+.boton-clinica{
+    margin-left: 50px;
+}
+
+.cuadro-texto-footer{
+    background-color: rgb(169, 218, 235);
+    padding: 20px;
+}
